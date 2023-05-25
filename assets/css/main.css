@@ -1683,6 +1683,8 @@ body > article {
 }
 
 #top {
+  background: rgb(174, 232, 238);
+  background: radial-gradient(circle, rgb(174, 232, 238) 0%, rgb(148, 187, 233) 100%);
   padding: 10em 0 10em 0;
   text-align: left;
 }
